@@ -1,5 +1,5 @@
 # BrainTeasers_ByUsing_Python
-Test your knowledge with BrainTeasers, a fun and interactive quiz application built using Python with Tkinter. Answer a series of questions on various topics and track your score in real-time. Ideal for learners and quiz enthusiasts, it challenges your understanding and sharpens your skills.
+Test your knowledge with BrainTeasers, a fun and interactive quiz application. This Python-based application is developed using the Tkinter library. It presents a series of questions related to various programming languages, allowing users to test their knowledge. After completing the quiz, users receive a score based on their correct answers. This project demonstrates the use of Tkinter for GUI development and includes functionalities for creating interactive quizzes.
 
 ## Table of Content
 
@@ -7,11 +7,11 @@ Test your knowledge with BrainTeasers, a fun and interactive quiz application bu
 - [Technology Used] (#technology)
 
 ## Features
-- Intuitive and easy-to-navigate layout for a seamless quiz experience.
+- Easy-to-navigate design for a smooth quiz-taking experience.
 - Includes multiple-choice questions covering different topics.
 - Automatically tracks and updates the user's score as they progress through the quiz.
 - Developed using Python programming language and Tkinter for the graphical user interface (GUI).
 
 # Technology Used
-- Python
-- Tkinter
+- Python:- Programming language used for the application logic.
+- Tkinter:- Python library for creating the graphical user interface (GUI).
